@@ -1,8 +1,9 @@
-# Hei 🇳🇴 Terve , hello, heisann, terve, konnichiwa
-- 👋 Hi, I’m @rjohnsen
-- 👀 I’m interested in Coding, Python, Golang, Security, CTF, Threat Hunting
-- 🌱 I’m currently learning finnish - because liquorice
-- 💞️ I’m looking to collaborate on small hadron collider
+# Hei, terve, hello, konnichiwa! 
+
+I am Roger Johnsen - a norwegian Threat Hunter and Programmer/Developer. My interest ranges from coding in Python, Golang and Rust, security, CTF and of course, Threeat Hunting! 
+
+![CorgiCodeBrendenGIF](https://user-images.githubusercontent.com/45312/226174941-7bdc7d50-edd4-4f72-a2f7-12f09c588a6d.gif)
+
 
 <!---
 rjohnsen/rjohnsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
