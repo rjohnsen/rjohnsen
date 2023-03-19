@@ -1,4 +1,4 @@
-# Hi there
+# Hi, hello, heisann, terve, konnichiwa! 🫎
 - 👋 Hi, I’m @rjohnsen
 - 👀 I’m interested in Coding, Python, Golang, Security, CTF, Threat Hunting
 - 🌱 I’m currently learning finnish - because liquorice
