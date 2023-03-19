@@ -1,6 +1,7 @@
 # Hei, terve, hello, konnichiwa! 
 
-I am Roger Johnsen - a norwegian Threat Hunter and Programmer/Developer. My interest ranges from coding in Python, Golang and Rust, security, CTF and of course, Threeat Hunting! 
+I am Roger Johnsen - a norwegian Threat Hunter and Programmer/Developer. My interest ranges from coding in Python, Golang and Rust, to security, CTF and of course, Threat Hunting! 
+Somehow I focus on threat hunting by a combination of detection engineering, statistics and development - in way you can say I an into Threatection Huntineering!
 
 ## The section about Corgis
 
