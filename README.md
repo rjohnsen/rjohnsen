@@ -5,7 +5,7 @@ Somehow I focus on threat hunting by a combination of detection engineering, sta
 
 ## The section about Corgis
 
-I am a devout Corgi lover. Whenever I see fit, I put in Corgi references. Deal with it or get a Cardigan 🤣
+I am a devout Corgi lover. Whenever I see fit, I put in Corgi references. Deal with it or get a Cardigan Corgi 🤣
 
 ![CorgiCodeBrendenGIF](https://user-images.githubusercontent.com/45312/226174941-7bdc7d50-edd4-4f72-a2f7-12f09c588a6d.gif)
 
